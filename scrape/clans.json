@@ -1,0 +1,74 @@
+{
+  "pepek": {
+    "room": "Pepek",
+    "owner": "62895342022385",
+    "status": false,
+    "clan": "Pepek",
+    "members": [],
+    "joinRequests": [],
+    "level": 6,
+    "warLimit": 11,
+    "currentWarCount": 5,
+    "missions": {
+      "daily": {
+        "description": "Rekrut 5 anggota baru",
+        "progress": 0,
+        "target": 5,
+        "reward": 100
+      },
+      "weekly": {
+        "description": "Menangkan 3 perang",
+        "progress": 0,
+        "target": 3,
+        "reward": 500
+      }
+    },
+    "clanTasks": {
+      "description": "Capai level 3",
+      "progress": 1,
+      "target": 3,
+      "reward": 300
+    }
+  },
+  "elite": {
+    "room": "elite",
+    "owner": "62857185066201",
+    "status": false,
+    "clan": "elite",
+    "members": [],
+    "joinRequests": [
+      {
+        "id": "62895324070395@s.whatsapp.net",
+        "number": 1,
+        "sesi": "120363320486680394@g.us",
+        "status": false,
+        "clan": "elite",
+        "vote": 0,
+        "isvote": false
+      }
+    ],
+    "level": 1,
+    "warLimit": 5,
+    "currentWarCount": 5,
+    "missions": {
+      "daily": {
+        "description": "Rekrut 5 anggota baru",
+        "progress": 0,
+        "target": 5,
+        "reward": 100
+      },
+      "weekly": {
+        "description": "Menangkan 3 perang",
+        "progress": 0,
+        "target": 3,
+        "reward": 500
+      }
+    },
+    "clanTasks": {
+      "description": "Capai level 3",
+      "progress": 1,
+      "target": 3,
+      "reward": 300
+    }
+  }
+}
